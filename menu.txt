@@ -2,3 +2,4 @@ mexican
 italian
 chinese
 indian
+japanese
